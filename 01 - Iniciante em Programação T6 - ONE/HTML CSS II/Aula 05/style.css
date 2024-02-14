@@ -1,0 +1,22 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    background-color:black;
+    color: white;
+    height: 100vh;
+    box-sizing: border-box;
+}
+
+.texto-distacado {
+    color: #22D4FD;
+}
+
+.apresentacao {
+    margin: 10%;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
