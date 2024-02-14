@@ -1,0 +1,25 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    background-color:black;
+    color: white;
+}
+
+.texto-destaque {
+    margin: 50px;
+    border: 25px;
+    padding: 15px;
+    content: 75px;
+    color: #22D4FD;
+}
+
+.titulo-blog {
+    color: blueviolet;
+}
+
+.destaque {
+    color: red;
+}
