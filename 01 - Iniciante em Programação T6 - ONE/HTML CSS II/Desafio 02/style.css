@@ -1,0 +1,15 @@
+body {
+    background-color: black;
+    color: azure;
+    height: 100vh;
+    box-sizing: border-box;
+}
+
+.apresentation {
+    display: flex;
+    align-items: center;
+    /* justify-content: space-between; */
+    /* height: 300px; */
+    flex-direction: row;
+    flex-wrap: wrap;
+}
